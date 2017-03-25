@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-docker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fundebug/nodejs-docker.git"
+  },
+  "author": "Fundebug",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
